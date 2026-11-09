@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/jtgmksajk9e2yxl2a9lv4mne)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> It will be a breadboard projects that will measure and display temperature, weather, and light.
+> It will be a breadboard projects that will measure and display temperature, weather, and light. It will also use the data to turn on lights and a fan based on the temperature!
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |

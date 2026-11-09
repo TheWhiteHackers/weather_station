@@ -1,4 +1,4 @@
-# Weather Wtation
+# Weather Station
 A breadboard that measures and displays temperature, humidity, and light
 
 ![image of breadboard](imgs/cimg.png)
